@@ -1,0 +1,4 @@
+Score|330
+Simple|clean the bathroom|in the house|200|True
+Eternal|read |scriptures every day|100|0
+Checklist|go the temple|10 times|10|10|1000|3
